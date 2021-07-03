@@ -1,3 +1,6 @@
 h1{
     color: aliceblue;
 }
+html{
+    background-image: url(dark.jpg);
+}
